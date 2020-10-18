@@ -4,12 +4,6 @@ import argparse
 import os
 import pandas as pd
 
-<<<<<<< HEAD
-=======
-# sklearn.externals.joblib is deprecated in 0.21 and will be removed in 0.23. 
-# from sklearn.externals import joblib
-# Import joblib package directly
->>>>>>> 05385b776ff7c61104669b80b4a948fbf83da123
 import joblib
 
 ## TODO: Import any additional libraries you need to define a model
